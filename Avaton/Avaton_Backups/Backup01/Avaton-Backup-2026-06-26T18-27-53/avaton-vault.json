@@ -1,0 +1,362 @@
+{
+  "app": "Avaton",
+  "version": 1,
+  "savedAt": "2026-06-26T18:27:53.700Z",
+  "backupCreatedAt": "2026-06-26T18:27:53.701Z",
+  "scripts": [
+    {
+      "id": "01a16f3f-321d-4e00-a944-d659ce2ff102",
+      "parentId": null,
+      "folderId": "f1ea967b-df30-4e95-8060-e90f4fa112d3",
+      "title": "Daily_Tasks",
+      "text": "Writing Date : 26-June-2026\n\n1) Wake Up (2 pm- 4 pm) \n2) Tooth Brush (2x -> WAKEUP TIME , 11.59 pm )  \n3) Bath (1x) 5 pm \n4) 1 hour Exercise (1 hour before issha prayer) \n5) 15 min - Silence Wall before starting Work\n6) Medicine\n7) Sleep 9 to 10 hours     (7 am- 8 am) ",
+      "color": "#7559e8",
+      "attachments": [],
+      "createdAt": "2026-06-26T09:36:54.613Z",
+      "updatedAt": "2026-06-26T09:43:12.169Z",
+      "lastOpenedAt": "2026-06-26T09:51:32.925Z"
+    },
+    {
+      "id": "2e05a8ec-4421-4ce9-87a6-a1d41af62cf5",
+      "parentId": null,
+      "folderId": "bad256f0-b343-431c-929e-4b6c2544aec4",
+      "title": "Health Probelms",
+      "text": "HAy Ai i am 19 year old and i wanna to became like a startup founder like in Field of artificial intelligence \ni mentiond the courses i have done yet above in image now tell me what i have to learn next fast as i wanna to hurryuply became like a powerful startup founder ",
+      "color": "#e76882",
+      "attachments": [],
+      "createdAt": "2026-06-26T09:52:58.005Z",
+      "updatedAt": "2026-06-26T11:50:31.155Z",
+      "lastOpenedAt": "2026-06-26T12:20:01.727Z"
+    },
+    {
+      "id": "ac2e1573-8a9c-432c-a601-9fa906fb6ef1",
+      "parentId": null,
+      "folderId": "e2d973fc-e11a-4847-aaa9-d005f4481f84",
+      "title": "Complete Plan",
+      "text": "",
+      "color": "#e39b47",
+      "attachments": [],
+      "createdAt": "2026-06-26T09:54:57.136Z",
+      "updatedAt": "2026-06-26T09:55:09.383Z",
+      "lastOpenedAt": "2026-06-26T18:26:50.080Z"
+    },
+    {
+      "id": "2a5b9283-f100-4164-9f3d-c15ff26f728d",
+      "parentId": null,
+      "folderId": null,
+      "title": "Self Mind Growth",
+      "text": "1) Dark Intelligence (https://youtu.be/i2wXa2ei4lc?si=k-KpFye4rSOSei1k)\n2)  Video By Will Power (https://youtu.be/_CfxZIcTawM?si=rvSGnG6xwkGD9Qng)\n3) Game Theroy \n\n4) Biography of Mark Zakar Burg , Elon Musk , Sam Alts Man",
+      "color": "#e76882",
+      "attachments": [],
+      "createdAt": "2026-06-26T12:13:57.613Z",
+      "updatedAt": "2026-06-26T12:17:00.412Z",
+      "lastOpenedAt": "2026-06-26T18:26:42.090Z"
+    }
+  ],
+  "folders": [
+    {
+      "id": "f1ea967b-df30-4e95-8060-e90f4fa112d3",
+      "parentId": null,
+      "title": "Basic_Plans",
+      "createdAt": "2026-06-26T09:36:32.531Z",
+      "updatedAt": "2026-06-26T09:36:32.531Z"
+    },
+    {
+      "id": "bad256f0-b343-431c-929e-4b6c2544aec4",
+      "parentId": null,
+      "title": "Basic Issues",
+      "createdAt": "2026-06-26T09:51:57.202Z",
+      "updatedAt": "2026-06-26T09:51:57.202Z"
+    },
+    {
+      "id": "e2d973fc-e11a-4847-aaa9-d005f4481f84",
+      "parentId": null,
+      "title": "Plan",
+      "createdAt": "2026-06-26T09:55:07.279Z",
+      "updatedAt": "2026-06-26T09:55:07.279Z"
+    }
+  ],
+  "cells": {
+    "id": "main",
+    "activeSheetId": "fe0462af-848d-42ac-b5de-72a809c3d5ba",
+    "sheets": [
+      {
+        "id": "ceb8b3cb-1bdd-42a6-afc9-c8ad68ba7848",
+        "name": "Medicine",
+        "columns": [
+          {
+            "id": "bf276e2f-f98e-401a-9a13-6c53cf6f7475",
+            "name": "Date",
+            "type": "date"
+          },
+          {
+            "id": "797d9b41-3e4b-4fc4-b778-df28a4b4873e",
+            "name": "Sibelum(5mg)",
+            "type": "checkbox"
+          },
+          {
+            "id": "e0a3df38-4996-4655-9573-9fc848013fa0",
+            "name": "Epival CR 500mg",
+            "type": "checkbox"
+          },
+          {
+            "id": "25deea9b-3067-47cf-84a0-10ae7bc25a55",
+            "name": "Proxen 250mg",
+            "type": "checkbox"
+          },
+          {
+            "id": "614d00cc-7730-483b-92b6-8907579d43ee",
+            "name": "Bsron (5mg)",
+            "type": "checkbox"
+          },
+          {
+            "id": "b5f02842-03a0-435e-b576-c9e7a90e3fa8",
+            "name": "Cac 1000 Plus Cola",
+            "type": "text"
+          },
+          {
+            "id": "2e035531-6224-4a52-8143-c767705489ca",
+            "name": "Neurobion Day",
+            "type": "checkbox"
+          },
+          {
+            "id": "e6ba08b7-69f2-4f83-a845-bc9c79663be5",
+            "name": "Neurobion Night",
+            "type": "checkbox"
+          }
+        ],
+        "rows": [
+          {
+            "id": "f1ca30be-26f5-40ea-851c-aae4cf5878c4",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-06-25",
+              "e6ba08b7-69f2-4f83-a845-bc9c79663be5": true,
+              "614d00cc-7730-483b-92b6-8907579d43ee": false,
+              "797d9b41-3e4b-4fc4-b778-df28a4b4873e": true,
+              "e0a3df38-4996-4655-9573-9fc848013fa0": true
+            }
+          },
+          {
+            "id": "dbbe3997-2333-409b-ba66-e6a310d09dfb",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-06-26"
+            }
+          },
+          {
+            "id": "a45dcbda-d4f1-4cdd-9db2-c154a849789e",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-06-27"
+            }
+          },
+          {
+            "id": "325883e1-3239-475a-b956-fe0cb9340d80",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-06-28"
+            }
+          },
+          {
+            "id": "e6a387bf-f846-4e17-a766-1e0a27441bb8",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-06-29"
+            }
+          },
+          {
+            "id": "313197f1-58d8-4801-8f84-a8a5cfd36665",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-06-30"
+            }
+          },
+          {
+            "id": "bfa497f7-3108-44bd-a530-c7464d62c4e9",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-07-01"
+            }
+          },
+          {
+            "id": "d303b8f0-4bcb-4303-acd9-168de3b8174e",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-07-02"
+            }
+          },
+          {
+            "id": "3ca5bf3f-2fb1-44d9-911e-76a426dff700",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-07-03"
+            }
+          },
+          {
+            "id": "4c4215f7-df90-4881-8611-2135ee2de44e",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-07-04"
+            }
+          },
+          {
+            "id": "207102ce-bea4-48aa-855d-b698f300ca31",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-07-05"
+            }
+          },
+          {
+            "id": "65d98fce-ddd9-4b42-bc57-efc24d80fdc5",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-07-06"
+            }
+          },
+          {
+            "id": "28f5bbf9-ed03-41dc-a885-ac865b0b92f4",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-07-07"
+            }
+          },
+          {
+            "id": "23d46298-1cf5-4f07-afb8-ad1a5f7d554a",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-07-08"
+            }
+          },
+          {
+            "id": "6a4d102f-cb0f-4497-bddb-4c34949be37f",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-07-09"
+            }
+          },
+          {
+            "id": "e99c8d6d-2617-4039-a224-24740c8d27f3",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-07-10"
+            }
+          },
+          {
+            "id": "fbd00f9e-485c-4e97-bc3f-79bf0d062acb",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-07-11"
+            }
+          },
+          {
+            "id": "3bed370f-18b1-4cf1-8058-8013b6f0838f",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-07-12"
+            }
+          },
+          {
+            "id": "6c945858-2fc1-402e-8b05-52f57e8c10ac",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-07-13"
+            }
+          },
+          {
+            "id": "a62320b9-03f4-41a2-a3fe-ca3da740951c",
+            "values": {
+              "bf276e2f-f98e-401a-9a13-6c53cf6f7475": "2026-06-14"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fe0462af-848d-42ac-b5de-72a809c3d5ba",
+        "name": "Exercise",
+        "columns": [
+          {
+            "id": "57666675-f1f1-47dc-9035-15ccd25b2d0f",
+            "name": "Date",
+            "type": "date"
+          },
+          {
+            "id": "62a01653-f86f-4d06-9767-8b2c57a6d2cf",
+            "name": "Total Time",
+            "type": "text"
+          },
+          {
+            "id": "ac7ff9d2-a3d5-4853-9fb8-c577b7fb6bbe",
+            "name": "IsFUll Walk Complete ",
+            "type": "text"
+          }
+        ],
+        "rows": [
+          {
+            "id": "ae4ffb58-a146-430c-b648-acfc8d83caf0",
+            "values": {}
+          },
+          {
+            "id": "80fb04b9-085d-453a-9eb3-b7f0ea04c563",
+            "values": {}
+          },
+          {
+            "id": "7522f39c-9e4f-48d3-ae21-52846af5fa95",
+            "values": {}
+          },
+          {
+            "id": "ac78b442-fe16-47af-8ba8-ef46f74f6f2d",
+            "values": {}
+          },
+          {
+            "id": "9a1f845e-dde8-4fa1-ac26-9d16f1509467",
+            "values": {}
+          },
+          {
+            "id": "ebb9d1d7-ff55-44a6-b1c2-91a40ee881bb",
+            "values": {}
+          },
+          {
+            "id": "e2a83e82-b35b-461a-83f7-661e33e63887",
+            "values": {}
+          },
+          {
+            "id": "4115f9ea-1b5d-4a85-bb93-8e435404585e",
+            "values": {}
+          },
+          {
+            "id": "668bc539-3036-4369-a0c2-d8d7d3e5e189",
+            "values": {}
+          },
+          {
+            "id": "e3aa7ae4-b677-4637-92f0-62add2fcf71a",
+            "values": {}
+          },
+          {
+            "id": "999d5834-1739-4625-b6fc-af80a8d13765",
+            "values": {}
+          },
+          {
+            "id": "8ec1e7f8-9d72-41f3-a925-5388fd20c52c",
+            "values": {}
+          },
+          {
+            "id": "35bc9a43-5106-4957-b9e2-7a2eab6d5a59",
+            "values": {}
+          },
+          {
+            "id": "9a3d0c64-4f88-44d7-ae73-93841c3acf32",
+            "values": {}
+          },
+          {
+            "id": "242390ea-9cf6-4e70-a5c0-c468e879fab1",
+            "values": {}
+          },
+          {
+            "id": "a598ed78-1806-499d-8ebb-0dec512051f5",
+            "values": {}
+          },
+          {
+            "id": "535aa4b4-0f6a-4949-b7a6-acaac5c100fe",
+            "values": {}
+          },
+          {
+            "id": "1bf5e5ed-d9a0-46af-9c86-9ce5351ebf59",
+            "values": {}
+          },
+          {
+            "id": "854255ad-730e-43df-b948-8747a14c188b",
+            "values": {}
+          },
+          {
+            "id": "2528c5ff-0e8b-414b-8eb8-766196174c72",
+            "values": {}
+          }
+        ]
+      }
+    ]
+  },
+  "stickyNotes": [],
+  "songs": []
+}
